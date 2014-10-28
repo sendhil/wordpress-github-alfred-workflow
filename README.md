@@ -1,0 +1,2 @@
+wordpress-github-alfred-workflow
+================================
